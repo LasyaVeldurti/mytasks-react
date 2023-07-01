@@ -1,0 +1,25 @@
+.li-container {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 24px;
+  padding-right: 24px;
+  background-color: #1a171d;
+  align-items: center;
+  margin-top: 12px;
+  margin-bottom: 12px;
+}
+.task-btn {
+  color: #323f4b;
+  border-style: none;
+  outline: none;
+  border-radius: 24px;
+  background-color: #f3aa4e;
+  font-weight: bold;
+  padding: 15px;
+  height: 45px;
+  font-size: 16px;
+}
+.task-name {
+  font-weight: bold;
+  font-size: 22px;
+}
